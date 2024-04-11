@@ -13,6 +13,7 @@
     "@aws-sdk/client-s3": "^3.552.0",
     "@aws-sdk/util-dynamodb": "^3.552.0",
     "@clerk/nextjs": "^4.29.12",
+    "@radix-ui/react-label": "^2.0.2",
     "@radix-ui/react-slot": "^1.0.2",
     "axios": "^1.6.8",
     "class-variance-authority": "^0.7.0",
